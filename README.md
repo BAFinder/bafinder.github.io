@@ -1,6 +1,6 @@
 ## BAFinder is comming soon
 
-![BAFinder GUI](/bafinder.github.io/doc/assets/BAFinder.png)
+![BAFinder GUI](./doc/assets/BAFinder.png)
 
 ### Software download
 
