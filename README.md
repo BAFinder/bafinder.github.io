@@ -14,7 +14,7 @@ If you already have jre 15.0.1 or later installed, or don't mind installing java
 The following resources are also available for download:<br> 
 User Manual (PDF)<br> 
 MS/MS library for bile acids (MSP, including 84 bile acids, developed using QE-HFX in positive ESI mode at NCE 45 and negative ESI mode at NCE 60)<br> 
-Test data (zip, example for input and output files of a human plasma dataset)
+Test data (zip, example for input and output files of a human plasma dataset, with library included)
 
 ### Citation
 
