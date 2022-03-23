@@ -12,7 +12,7 @@ If you don't want to install java, please download the packaged program for Wind
 If you already have jre 15.0.1 or later installed, or don't mind installing java on your system, please download the jar file for Windows or macOS system. (~20 MB).
 
 The following resources are also available for download:<br> 
-User Manual <a href="./doc/assets/BAFinder User Manual v1.0.PDF" download>(PDF)</a> <br> 
+User Manual <a href="./doc/assets/BAFinder User Manual v1.0.pdf" download>(PDF)</a> <br> 
 MS/MS library for bile acids (MSP, including 84 bile acids, developed using QE-HFX in positive ESI mode at NCE 45 and negative ESI mode at NCE 60)<br> 
 Test data (zip, example for input and output files of a human plasma dataset, with library included)
 
