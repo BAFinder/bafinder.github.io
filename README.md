@@ -18,7 +18,9 @@ Test data (zip, example for input and output files of a human plasma dataset, wi
 
 ### Citation
 
-If you use BAFinder software or libraries in your published work, please cite the BAFinder paper.
+If you use BAFinder software or libraries in your published work, please cite the BAFinder paper:<br> 
+BAFinder: A Software for Unknown Bile Acid Identification Using Accurate Mass LC-MS/MS in Positive and Negative Modes<br> 
+DOI:10.1021/acs.analchem.1c05648
 
 ### Contact
 
