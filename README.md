@@ -8,7 +8,7 @@ BAFinder is a program developed for the unknown bile acid identification from LC
 ### Download Link
 
 BAFinder software<br> 
-If you don't want to install java, please download the packaged program for Windows64 or macOS system.(~70 MB) <br> 
+If you don't want to install java, please download the packaged program for <a href="./software/BAFinder_windows64.zip" download>Windows64</a> or macOS system.(~70 MB) <br> 
 If you already have jre 15.0.1 or later installed, or don't mind installing java on your system, please download the jar file for Windows or macOS system. (~20 MB).
 
 The following resources are also available for download:<br> 
