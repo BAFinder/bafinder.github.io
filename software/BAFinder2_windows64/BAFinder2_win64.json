@@ -1,0 +1,10 @@
+{
+  "jrePath": "jre",
+  "classPath": [
+    "BAFinder_2.jar"
+  ],
+  "mainClass": "org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader",
+  "useZgcIfSupportedOs": true,
+  "vmArgs": [
+  ]
+}
