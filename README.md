@@ -4,7 +4,7 @@
 
 ### New: BAFinder 2.0 is comming!
 For internal validation, please go to the following site to download software and test data:<br> 
-https://github.com/BAFinder/bafinder.github.io/tree/BAFinder-2.0<br> 
+<a href=https://github.com/BAFinder/bafinder.github.io/tree/BAFinder-2.0" https://github.com/BAFinder/bafinder.github.io/tree/BAFinder-2.0 </a> <br> 
 
 ### Introduction
 BAFinder is a program developed for the unknown bile acid identification from LC-MS/MS data in both positive and negative modes. It was developed in Java (jdk 15.0.1) with a graphical user interface (GUI) using the Open Source IDE Eclipse. BAFinder takes the alignment and peak list generated from XCMS (csv) and MS/MS spectra (MGF), searches them against a MS/MS reference library (MSP), a build-in characteristic feature (e.g. product ion or neutral loss) query list and an optional retention time library (txt) within user-defined m/z and RT tolerance, and exported the annotation summary (csv), processing details (csv) and representative MS/MS spectra (MGF) into an output folder.
