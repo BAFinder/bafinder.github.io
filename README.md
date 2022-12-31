@@ -2,8 +2,8 @@
 
 ![BAFinder GUI](./doc/assets/BAFinder.png)
 
-### News: BAFinder 2.0 is comming!
-For internal validation, please go to the following link to download software and test data:<br> 
+### New: BAFinder 2.0 is comming!
+For internal validation, please go to the following site to download software and test data:<br> 
 https://github.com/BAFinder/bafinder.github.io/tree/BAFinder-2.0<br> 
 
 ### Introduction
