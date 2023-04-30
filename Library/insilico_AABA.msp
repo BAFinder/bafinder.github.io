@@ -1,0 +1,1330 @@
+Name: 1OH_Ala-BA [M-H]-
+Comments: 1OH_Ala-BA
+PrecursorMZ: 446.3275
+Num Peaks: 1
+88.0404 100.0
+
+Name: 1O_Ala-BA [M-H]-
+Comments: 1O_Ala-BA
+PrecursorMZ: 444.3119
+Num Peaks: 1
+88.0404 100.0
+
+Name: 2OH_Ala-BA [M-H]-
+Comments: 2OH_Ala-BA
+PrecursorMZ: 462.3225
+Num Peaks: 1
+88.0404 100.0
+
+Name: 1O1OH_Ala-BA [M-H]-
+Comments: 1O1OH_Ala-BA
+PrecursorMZ: 460.3068
+Num Peaks: 1
+88.0404 100.0
+
+Name: 2O_Ala-BA [M-H]-
+Comments: 2O_Ala-BA
+PrecursorMZ: 458.2912
+Num Peaks: 1
+88.0404 100.0
+
+Name: 3OH_Ala-BA [M-H]-
+Comments: 3OH_Ala-BA
+PrecursorMZ: 478.3174
+Num Peaks: 1
+88.0404 100.0
+
+Name: 1O2OH_Ala-BA [M-H]-
+Comments: 1O2OH_Ala-BA
+PrecursorMZ: 476.3017
+Num Peaks: 1
+88.0404 100.0
+
+Name: 2O1OH_Ala-BA [M-H]-
+Comments: 2O1OH_Ala-BA
+PrecursorMZ: 474.2861
+Num Peaks: 1
+88.0404 100.0
+
+Name: 4OH_Ala-BA [M-H]-
+Comments: 4OH_Ala-BA
+PrecursorMZ: 494.3123
+Num Peaks: 1
+88.0404 100.0
+
+Name: 1OH_Arg-BA [M-H]-
+Comments: 1OH_Arg-BA
+PrecursorMZ: 531.3915
+Num Peaks: 1
+131.0826 100.0
+
+Name: 1O_Arg-BA [M-H]-
+Comments: 1O_Arg-BA
+PrecursorMZ: 529.3759
+Num Peaks: 1
+131.0826 100.0
+
+Name: 2OH_Arg-BA [M-H]-
+Comments: 2OH_Arg-BA
+PrecursorMZ: 547.3865
+Num Peaks: 1
+131.0826 100.0
+
+Name: 1O1OH_Arg-BA [M-H]-
+Comments: 1O1OH_Arg-BA
+PrecursorMZ: 545.3708
+Num Peaks: 1
+131.0826 100.0
+
+Name: 2O_Arg-BA [M-H]-
+Comments: 2O_Arg-BA
+PrecursorMZ: 543.3552
+Num Peaks: 1
+131.0826 100.0
+
+Name: 3OH_Arg-BA [M-H]-
+Comments: 3OH_Arg-BA
+PrecursorMZ: 563.3814
+Num Peaks: 1
+131.0826 100.0
+
+Name: 1O2OH_Arg-BA [M-H]-
+Comments: 1O2OH_Arg-BA
+PrecursorMZ: 561.3657
+Num Peaks: 1
+131.0826 100.0
+
+Name: 2O1OH_Arg-BA [M-H]-
+Comments: 2O1OH_Arg-BA
+PrecursorMZ: 559.3501
+Num Peaks: 1
+131.0826 100.0
+
+Name: 4OH_Arg-BA [M-H]-
+Comments: 4OH_Arg-BA
+PrecursorMZ: 579.3763
+Num Peaks: 1
+131.0826 100.0
+
+Name: 1OH_Asn-BA [M-H]-
+Comments: 1OH_Asn-BA
+PrecursorMZ: 489.3334
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 1O_Asn-BA [M-H]-
+Comments: 1O_Asn-BA
+PrecursorMZ: 487.3177
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 2OH_Asn-BA [M-H]-
+Comments: 2OH_Asn-BA
+PrecursorMZ: 505.3283
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 1O1OH_Asn-BA [M-H]-
+Comments: 1O1OH_Asn-BA
+PrecursorMZ: 503.3126
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 2O_Asn-BA [M-H]-
+Comments: 2O_Asn-BA
+PrecursorMZ: 501.297
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 3OH_Asn-BA [M-H]-
+Comments: 3OH_Asn-BA
+PrecursorMZ: 521.3232
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 1O2OH_Asn-BA [M-H]-
+Comments: 1O2OH_Asn-BA
+PrecursorMZ: 519.3075
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 2O1OH_Asn-BA [M-H]-
+Comments: 2O1OH_Asn-BA
+PrecursorMZ: 517.2919
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 4OH_Asn-BA [M-H]-
+Comments: 4OH_Asn-BA
+PrecursorMZ: 537.3181
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 1OH_Asp-BA [M-H]-
+Comments: 1OH_Asp-BA
+PrecursorMZ: 490.3174
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 1O_Asp-BA [M-H]-
+Comments: 1O_Asp-BA
+PrecursorMZ: 488.3017
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 2OH_Asp-BA [M-H]-
+Comments: 2OH_Asp-BA
+PrecursorMZ: 506.3123
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 1O1OH_Asp-BA [M-H]-
+Comments: 1O1OH_Asp-BA
+PrecursorMZ: 504.2966
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 2O_Asp-BA [M-H]-
+Comments: 2O_Asp-BA
+PrecursorMZ: 502.281
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 3OH_Asp-BA [M-H]-
+Comments: 3OH_Asp-BA
+PrecursorMZ: 522.3072
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 1O2OH_Asp-BA [M-H]-
+Comments: 1O2OH_Asp-BA
+PrecursorMZ: 520.2916
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 2O1OH_Asp-BA [M-H]-
+Comments: 2O1OH_Asp-BA
+PrecursorMZ: 518.276
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 4OH_Asp-BA [M-H]-
+Comments: 4OH_Asp-BA
+PrecursorMZ: 538.3021
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 1OH_Glu-BA [M-H]-
+Comments: 1OH_Glu-BA
+PrecursorMZ: 504.333
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 1O_Glu-BA [M-H]-
+Comments: 1O_Glu-BA
+PrecursorMZ: 502.3174
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 2OH_Glu-BA [M-H]-
+Comments: 2OH_Glu-BA
+PrecursorMZ: 520.3279
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 1O1OH_Glu-BA [M-H]-
+Comments: 1O1OH_Glu-BA
+PrecursorMZ: 518.3123
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 2O_Glu-BA [M-H]-
+Comments: 2O_Glu-BA
+PrecursorMZ: 516.2967
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 3OH_Glu-BA [M-H]-
+Comments: 3OH_Glu-BA
+PrecursorMZ: 536.3229
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 1O2OH_Glu-BA [M-H]-
+Comments: 1O2OH_Glu-BA
+PrecursorMZ: 534.3072
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 2O1OH_Glu-BA [M-H]-
+Comments: 2O1OH_Glu-BA
+PrecursorMZ: 532.2916
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 4OH_Glu-BA [M-H]-
+Comments: 4OH_Glu-BA
+PrecursorMZ: 552.3178
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 1OH_Gln-BA [M-H]-
+Comments: 1OH_Gln-BA
+PrecursorMZ: 503.349
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 1O_Gln-BA [M-H]-
+Comments: 1O_Gln-BA
+PrecursorMZ: 501.3334
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 2OH_Gln-BA [M-H]-
+Comments: 2OH_Gln-BA
+PrecursorMZ: 519.3439
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 1O1OH_Gln-BA [M-H]-
+Comments: 1O1OH_Gln-BA
+PrecursorMZ: 517.3283
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 2O_Gln-BA [M-H]-
+Comments: 2O_Gln-BA
+PrecursorMZ: 515.3127
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 3OH_Gln-BA [M-H]-
+Comments: 3OH_Gln-BA
+PrecursorMZ: 535.3388
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 1O2OH_Gln-BA [M-H]-
+Comments: 1O2OH_Gln-BA
+PrecursorMZ: 533.3232
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 2O1OH_Gln-BA [M-H]-
+Comments: 2O1OH_Gln-BA
+PrecursorMZ: 531.3076
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 4OH_Gln-BA [M-H]-
+Comments: 4OH_Gln-BA
+PrecursorMZ: 551.3337
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 1OH_His-BA [M-H]-
+Comments: 1OH_His-BA
+PrecursorMZ: 512.3493
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 1O_His-BA [M-H]-
+Comments: 1O_His-BA
+PrecursorMZ: 510.3337
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 2OH_His-BA [M-H]-
+Comments: 2OH_His-BA
+PrecursorMZ: 528.3443
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 1O1OH_His-BA [M-H]-
+Comments: 1O1OH_His-BA
+PrecursorMZ: 526.3286
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 2O_His-BA [M-H]-
+Comments: 2O_His-BA
+PrecursorMZ: 524.313
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 3OH_His-BA [M-H]-
+Comments: 3OH_His-BA
+PrecursorMZ: 544.3392
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 1O2OH_His-BA [M-H]-
+Comments: 1O2OH_His-BA
+PrecursorMZ: 542.3235
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 2O1OH_His-BA [M-H]-
+Comments: 2O1OH_His-BA
+PrecursorMZ: 540.3079
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 4OH_His-BA [M-H]-
+Comments: 4OH_His-BA
+PrecursorMZ: 560.3341
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 1OH_Leu/Ile-BA [M-H]-
+Comments: 1OH_Leu/Ile-BA
+PrecursorMZ: 488.3745
+Num Peaks: 1
+130.0873 100.0
+
+Name: 1O_Leu/Ile-BA [M-H]-
+Comments: 1O_Leu/Ile-BA
+PrecursorMZ: 486.3588
+Num Peaks: 1
+130.0873 100.0
+
+Name: 2OH_Leu/Ile-BA [M-H]-
+Comments: 2OH_Leu/Ile-BA
+PrecursorMZ: 504.3694
+Num Peaks: 1
+130.0873 100.0
+
+Name: 1O1OH_Leu/Ile-BA [M-H]-
+Comments: 1O1OH_Leu/Ile-BA
+PrecursorMZ: 502.3538
+Num Peaks: 1
+130.0873 100.0
+
+Name: 2O_Leu/Ile-BA [M-H]-
+Comments: 2O_Leu/Ile-BA
+PrecursorMZ: 500.3382
+Num Peaks: 1
+130.0873 100.0
+
+Name: 3OH_Leu/Ile-BA [M-H]-
+Comments: 3OH_Leu/Ile-BA
+PrecursorMZ: 520.3643
+Num Peaks: 1
+130.0873 100.0
+
+Name: 1O2OH_Leu/Ile-BA [M-H]-
+Comments: 1O2OH_Leu/Ile-BA
+PrecursorMZ: 518.3487
+Num Peaks: 1
+130.0873 100.0
+
+Name: 2O1OH_Leu/Ile-BA [M-H]-
+Comments: 2O1OH_Leu/Ile-BA
+PrecursorMZ: 516.3331
+Num Peaks: 1
+130.0873 100.0
+
+Name: 4OH_Leu/Ile-BA [M-H]-
+Comments: 4OH_Leu/Ile-BA
+PrecursorMZ: 536.3592
+Num Peaks: 1
+130.0873 100.0
+
+Name: 1OH_Lys-BA [M-H]-
+Comments: 1OH_Lys-BA
+PrecursorMZ: 503.3854
+Num Peaks: 1
+145.0982 100.0
+
+Name: 1O_Lys-BA [M-H]-
+Comments: 1O_Lys-BA
+PrecursorMZ: 501.3697
+Num Peaks: 1
+145.0982 100.0
+
+Name: 2OH_Lys-BA [M-H]-
+Comments: 2OH_Lys-BA
+PrecursorMZ: 519.3803
+Num Peaks: 1
+145.0982 100.0
+
+Name: 1O1OH_Lys-BA [M-H]-
+Comments: 1O1OH_Lys-BA
+PrecursorMZ: 517.3647
+Num Peaks: 1
+145.0982 100.0
+
+Name: 2O_Lys-BA [M-H]-
+Comments: 2O_Lys-BA
+PrecursorMZ: 515.3491
+Num Peaks: 1
+145.0982 100.0
+
+Name: 3OH_Lys-BA [M-H]-
+Comments: 3OH_Lys-BA
+PrecursorMZ: 535.3752
+Num Peaks: 1
+145.0982 100.0
+
+Name: 1O2OH_Lys-BA [M-H]-
+Comments: 1O2OH_Lys-BA
+PrecursorMZ: 533.3596
+Num Peaks: 1
+145.0982 100.0
+
+Name: 2O1OH_Lys-BA [M-H]-
+Comments: 2O1OH_Lys-BA
+PrecursorMZ: 531.344
+Num Peaks: 1
+145.0982 100.0
+
+Name: 4OH_Lys-BA [M-H]-
+Comments: 4OH_Lys-BA
+PrecursorMZ: 551.3701
+Num Peaks: 1
+145.0982 100.0
+
+Name: 1OH_Met-BA [M-H]-
+Comments: 1OH_Met-BA
+PrecursorMZ: 506.3309
+Num Peaks: 1
+148.0437 100.0
+
+Name: 1O_Met-BA [M-H]-
+Comments: 1O_Met-BA
+PrecursorMZ: 504.3153
+Num Peaks: 1
+148.0437 100.0
+
+Name: 2OH_Met-BA [M-H]-
+Comments: 2OH_Met-BA
+PrecursorMZ: 522.3258
+Num Peaks: 1
+148.0437 100.0
+
+Name: 1O1OH_Met-BA [M-H]-
+Comments: 1O1OH_Met-BA
+PrecursorMZ: 520.3102
+Num Peaks: 1
+148.0437 100.0
+
+Name: 2O_Met-BA [M-H]-
+Comments: 2O_Met-BA
+PrecursorMZ: 518.2946
+Num Peaks: 1
+148.0437 100.0
+
+Name: 3OH_Met-BA [M-H]-
+Comments: 3OH_Met-BA
+PrecursorMZ: 538.3207
+Num Peaks: 1
+148.0437 100.0
+
+Name: 1O2OH_Met-BA [M-H]-
+Comments: 1O2OH_Met-BA
+PrecursorMZ: 536.3051
+Num Peaks: 1
+148.0437 100.0
+
+Name: 2O1OH_Met-BA [M-H]-
+Comments: 2O1OH_Met-BA
+PrecursorMZ: 534.2895
+Num Peaks: 1
+148.0437 100.0
+
+Name: 4OH_Met-BA [M-H]-
+Comments: 4OH_Met-BA
+PrecursorMZ: 554.3157
+Num Peaks: 1
+148.0437 100.0
+
+Name: 1OH_Phe-BA [M-H]-
+Comments: 1OH_Phe-BA
+PrecursorMZ: 522.3588
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 1O_Phe-BA [M-H]-
+Comments: 1O_Phe-BA
+PrecursorMZ: 520.3432
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 2OH_Phe-BA [M-H]-
+Comments: 2OH_Phe-BA
+PrecursorMZ: 538.3538
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 1O1OH_Phe-BA [M-H]-
+Comments: 1O1OH_Phe-BA
+PrecursorMZ: 536.3381
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 2O_Phe-BA [M-H]-
+Comments: 2O_Phe-BA
+PrecursorMZ: 534.3225
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 3OH_Phe-BA [M-H]-
+Comments: 3OH_Phe-BA
+PrecursorMZ: 554.3487
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 1O2OH_Phe-BA [M-H]-
+Comments: 1O2OH_Phe-BA
+PrecursorMZ: 552.333
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 2O1OH_Phe-BA [M-H]-
+Comments: 2O1OH_Phe-BA
+PrecursorMZ: 550.3174
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 4OH_Phe-BA [M-H]-
+Comments: 4OH_Phe-BA
+PrecursorMZ: 570.3436
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 1OH_Pro-BA [M-H]-
+Comments: 1OH_Pro-BA
+PrecursorMZ: 472.3432
+Num Peaks: 1
+114.056 100.0
+
+Name: 1O_Pro-BA [M-H]-
+Comments: 1O_Pro-BA
+PrecursorMZ: 470.3275
+Num Peaks: 1
+114.056 100.0
+
+Name: 2OH_Pro-BA [M-H]-
+Comments: 2OH_Pro-BA
+PrecursorMZ: 488.3381
+Num Peaks: 1
+114.056 100.0
+
+Name: 1O1OH_Pro-BA [M-H]-
+Comments: 1O1OH_Pro-BA
+PrecursorMZ: 486.3225
+Num Peaks: 1
+114.056 100.0
+
+Name: 2O_Pro-BA [M-H]-
+Comments: 2O_Pro-BA
+PrecursorMZ: 484.3069
+Num Peaks: 1
+114.056 100.0
+
+Name: 3OH_Pro-BA [M-H]-
+Comments: 3OH_Pro-BA
+PrecursorMZ: 504.333
+Num Peaks: 1
+114.056 100.0
+
+Name: 1O2OH_Pro-BA [M-H]-
+Comments: 1O2OH_Pro-BA
+PrecursorMZ: 502.3174
+Num Peaks: 1
+114.056 100.0
+
+Name: 2O1OH_Pro-BA [M-H]-
+Comments: 2O1OH_Pro-BA
+PrecursorMZ: 500.3018
+Num Peaks: 1
+114.056 100.0
+
+Name: 4OH_Pro-BA [M-H]-
+Comments: 4OH_Pro-BA
+PrecursorMZ: 520.3279
+Num Peaks: 1
+114.056 100.0
+
+Name: 1OH_Ser-BA [M-H]-
+Comments: 1OH_Ser-BA
+PrecursorMZ: 462.3225
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 1O_Ser-BA [M-H]-
+Comments: 1O_Ser-BA
+PrecursorMZ: 460.3068
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 2OH_Ser-BA [M-H]-
+Comments: 2OH_Ser-BA
+PrecursorMZ: 478.3174
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 1O1OH_Ser-BA [M-H]-
+Comments: 1O1OH_Ser-BA
+PrecursorMZ: 476.3017
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 2O_Ser-BA [M-H]-
+Comments: 2O_Ser-BA
+PrecursorMZ: 474.2861
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 3OH_Ser-BA [M-H]-
+Comments: 3OH_Ser-BA
+PrecursorMZ: 494.3123
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 1O2OH_Ser-BA [M-H]-
+Comments: 1O2OH_Ser-BA
+PrecursorMZ: 492.2966
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 2O1OH_Ser-BA [M-H]-
+Comments: 2O1OH_Ser-BA
+PrecursorMZ: 490.281
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 4OH_Ser-BA [M-H]-
+Comments: 4OH_Ser-BA
+PrecursorMZ: 510.3072
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 1OH_Thr-BA [M-H]-
+Comments: 1OH_Thr-BA
+PrecursorMZ: 476.3381
+Num Peaks: 1
+74.0247 100.0
+
+Name: 1O_Thr-BA [M-H]-
+Comments: 1O_Thr-BA
+PrecursorMZ: 474.3225
+Num Peaks: 1
+74.0247 100.0
+
+Name: 2OH_Thr-BA [M-H]-
+Comments: 2OH_Thr-BA
+PrecursorMZ: 492.333
+Num Peaks: 1
+74.0247 100.0
+
+Name: 1O1OH_Thr-BA [M-H]-
+Comments: 1O1OH_Thr-BA
+PrecursorMZ: 490.3174
+Num Peaks: 1
+74.0247 100.0
+
+Name: 2O_Thr-BA [M-H]-
+Comments: 2O_Thr-BA
+PrecursorMZ: 488.3018
+Num Peaks: 1
+74.0247 100.0
+
+Name: 3OH_Thr-BA [M-H]-
+Comments: 3OH_Thr-BA
+PrecursorMZ: 508.3279
+Num Peaks: 1
+74.0247 100.0
+
+Name: 1O2OH_Thr-BA [M-H]-
+Comments: 1O2OH_Thr-BA
+PrecursorMZ: 506.3123
+Num Peaks: 1
+74.0247 100.0
+
+Name: 2O1OH_Thr-BA [M-H]-
+Comments: 2O1OH_Thr-BA
+PrecursorMZ: 504.2967
+Num Peaks: 1
+74.0247 100.0
+
+Name: 4OH_Thr-BA [M-H]-
+Comments: 4OH_Thr-BA
+PrecursorMZ: 524.3229
+Num Peaks: 1
+74.0247 100.0
+
+Name: 1OH_Trp-BA [M-H]-
+Comments: 1OH_Trp-BA
+PrecursorMZ: 561.3697
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 1O_Trp-BA [M-H]-
+Comments: 1O_Trp-BA
+PrecursorMZ: 559.3541
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 2OH_Trp-BA [M-H]-
+Comments: 2OH_Trp-BA
+PrecursorMZ: 577.3647
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 1O1OH_Trp-BA [M-H]-
+Comments: 1O1OH_Trp-BA
+PrecursorMZ: 575.349
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 2O_Trp-BA [M-H]-
+Comments: 2O_Trp-BA
+PrecursorMZ: 573.3334
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 3OH_Trp-BA [M-H]-
+Comments: 3OH_Trp-BA
+PrecursorMZ: 593.3596
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 1O2OH_Trp-BA [M-H]-
+Comments: 1O2OH_Trp-BA
+PrecursorMZ: 591.3439
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 2O1OH_Trp-BA [M-H]-
+Comments: 2O1OH_Trp-BA
+PrecursorMZ: 589.3283
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 4OH_Trp-BA [M-H]-
+Comments: 4OH_Trp-BA
+PrecursorMZ: 609.3545
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 1OH_Tyr-BA [M-H]-
+Comments: 1OH_Tyr-BA
+PrecursorMZ: 538.3538
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 1O_Tyr-BA [M-H]-
+Comments: 1O_Tyr-BA
+PrecursorMZ: 536.3381
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 2OH_Tyr-BA [M-H]-
+Comments: 2OH_Tyr-BA
+PrecursorMZ: 554.3487
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 1O1OH_Tyr-BA [M-H]-
+Comments: 1O1OH_Tyr-BA
+PrecursorMZ: 552.333
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 2O_Tyr-BA [M-H]-
+Comments: 2O_Tyr-BA
+PrecursorMZ: 550.3174
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 3OH_Tyr-BA [M-H]-
+Comments: 3OH_Tyr-BA
+PrecursorMZ: 570.3436
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 1O2OH_Tyr-BA [M-H]-
+Comments: 1O2OH_Tyr-BA
+PrecursorMZ: 568.3279
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 2O1OH_Tyr-BA [M-H]-
+Comments: 2O1OH_Tyr-BA
+PrecursorMZ: 566.3123
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 4OH_Tyr-BA [M-H]-
+Comments: 4OH_Tyr-BA
+PrecursorMZ: 586.3385
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 1OH_Val-BA [M-H]-
+Comments: 1OH_Val-BA
+PrecursorMZ: 474.3588
+Num Peaks: 1
+116.0717 100.0
+
+Name: 1O_Val-BA [M-H]-
+Comments: 1O_Val-BA
+PrecursorMZ: 472.3432
+Num Peaks: 1
+116.0717 100.0
+
+Name: 2OH_Val-BA [M-H]-
+Comments: 2OH_Val-BA
+PrecursorMZ: 490.3538
+Num Peaks: 1
+116.0717 100.0
+
+Name: 1O1OH_Val-BA [M-H]-
+Comments: 1O1OH_Val-BA
+PrecursorMZ: 488.3381
+Num Peaks: 1
+116.0717 100.0
+
+Name: 2O_Val-BA [M-H]-
+Comments: 2O_Val-BA
+PrecursorMZ: 486.3225
+Num Peaks: 1
+116.0717 100.0
+
+Name: 3OH_Val-BA [M-H]-
+Comments: 3OH_Val-BA
+PrecursorMZ: 506.3487
+Num Peaks: 1
+116.0717 100.0
+
+Name: 1O2OH_Val-BA [M-H]-
+Comments: 1O2OH_Val-BA
+PrecursorMZ: 504.333
+Num Peaks: 1
+116.0717 100.0
+
+Name: 2O1OH_Val-BA [M-H]-
+Comments: 2O1OH_Val-BA
+PrecursorMZ: 502.3174
+Num Peaks: 1
+116.0717 100.0
+
+Name: 4OH_Val-BA [M-H]-
+Comments: 4OH_Val-BA
+PrecursorMZ: 522.3436
+Num Peaks: 1
+116.0717 100.0
+
+Name: 3O_Ala-BA [M-H]-
+Comments: 3O_Ala-BA
+PrecursorMZ: 472.2705
+Num Peaks: 1
+88.0404 100.0
+
+Name: 3O_Arg-BA [M-H]-
+Comments: 3O_Arg-BA
+PrecursorMZ: 557.3345
+Num Peaks: 1
+131.0826 100.0
+
+Name: 3O_Asn-BA [M-H]-
+Comments: 3O_Asn-BA
+PrecursorMZ: 515.2763
+Num Peaks: 5
+96.0091 95.0
+114.0196 70.0
+70.0298 60.0
+113.0356 50.0
+131.0462 40.0
+
+Name: 3O_Asp-BA [M-H]-
+Comments: 3O_Asp-BA
+PrecursorMZ: 516.2603
+Num Peaks: 3
+88.0404 100.0
+71.0138 25.0
+115.0037 15.0
+
+Name: 3O_Glu-BA [M-H]-
+Comments: 3O_Glu-BA
+PrecursorMZ: 530.276
+Num Peaks: 4
+102.056 100.0
+128.0353 80.0
+146.0459 10.0
+84.0455 10.0
+
+Name: 3O_Gln-BA [M-H]-
+Comments: 3O_Gln-BA
+PrecursorMZ: 529.2919
+Num Peaks: 6
+127.0513 100.0
+145.0618 85.0
+109.0407 40.0
+128.0353 30.0
+101.072 20.0
+84.0455 20.0
+
+Name: 3O_His-BA [M-H]-
+Comments: 3O_His-BA
+PrecursorMZ: 538.2923
+Num Peaks: 4
+110.0723 100.0
+154.0622 55.0
+93.0458 15.0
+137.0356 10.0
+
+Name: 3O_Leu/Ile-BA [M-H]-
+Comments: 3O_Leu/Ile-BA
+PrecursorMZ: 514.3174
+Num Peaks: 1
+130.0873 100.0
+
+Name: 3O_Lys-BA [M-H]-
+Comments: 3O_Lys-BA
+PrecursorMZ: 529.3283
+Num Peaks: 1
+145.0982 100.0
+
+Name: 3O_Met-BA [M-H]-
+Comments: 3O_Met-BA
+PrecursorMZ: 532.2738
+Num Peaks: 1
+148.0437 100.0
+
+Name: 3O_Phe-BA [M-H]-
+Comments: 3O_Phe-BA
+PrecursorMZ: 548.3018
+Num Peaks: 3
+147.0451 95.0
+164.0717 95.0
+72.0091 30.0
+
+Name: 3O_Pro-BA [M-H]-
+Comments: 3O_Pro-BA
+PrecursorMZ: 498.2861
+Num Peaks: 1
+114.056 100.0
+
+Name: 3O_Ser-BA [M-H]-
+Comments: 3O_Ser-BA
+PrecursorMZ: 488.2654
+Num Peaks: 2
+74.0247 100.0
+104.0353 20.0
+
+Name: 3O_Thr-BA [M-H]-
+Comments: 3O_Thr-BA
+PrecursorMZ: 502.281
+Num Peaks: 1
+74.0247 100.0
+
+Name: 3O_Trp-BA [M-H]-
+Comments: 3O_Trp-BA
+PrecursorMZ: 587.3127
+Num Peaks: 6
+74.0247 100.0
+116.0505 80.0
+142.0662 30.0
+203.0826 30.0
+72.0091 10.0
+159.0927 15.0
+
+Name: 3O_Tyr-BA [M-H]-
+Comments: 3O_Tyr-BA
+PrecursorMZ: 564.2967
+Num Peaks: 7
+119.0502 75.0
+180.0666 90.0
+163.04 60.0
+93.0346 20.0
+72.0091 15.0
+74.0247 15.0
+107.0502 15.0
+
+Name: 3O_Val-BA [M-H]-
+Comments: 3O_Val-BA
+PrecursorMZ: 500.3018
+Num Peaks: 1
+116.0717 100.0
+
