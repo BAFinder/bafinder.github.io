@@ -1,8 +1,8 @@
-## BAFinder
+## BAFinder: a toolbox for bile acid identification
 
 ![BAFinder GUI](./doc/assets/BAFinder.png)
 
-### New: a transferrable retention time library for bile acids (BART)
+### BART: a transferrable retention time library for bile acids
 BART is a Java program to predict gradient retention times of bile acids on different LC-MS instruments based on isocratic retention modeling. <br> 
 Currently the database only supports the following LC condition:
 Column: Waters BEH C18 (2.1 mm × 100 mm, 1.7 µm)
@@ -11,21 +11,21 @@ Mobile phase B: ACN
 Flow rate: 0.45 mL/min
 Column temperature: 45 ℃
 
-### Download BART
+#### Download BART
 Program: for Windows 64<br> 
 Database<br> 
 User Manual<br> 
 
 
 
-### BAFinder
+### BAFinder: identification of bile acids using MS/MS in positive and negative mode
 BAFinder is a program developed for the unknown bile acid identification from LC-MS/MS data in both positive and negative modes. It was developed in Java (jdk 15.0.1) with a graphical user interface (GUI) using the Open Source IDE Eclipse. BAFinder takes the alignment and peak list generated from XCMS (csv) and MS/MS spectra (MGF), searches them against a MS/MS reference library (MSP), a build-in characteristic feature (e.g. product ion or neutral loss) query list and an optional retention time library (txt) within user-defined m/z and RT tolerance, and exported the annotation summary (csv), processing details (csv) and representative MS/MS spectra (MGF) into an output folder.
 #### Update: BAFinder 2.0 is comming!
 BAFinder 2.0 offers new functions to identify amino-acid conjugated bile acids other than glycine and taurine. <br> 
 For internal validation, please go to the following site to download software and test data:<br> 
 https://github.com/BAFinder/bafinder.github.io/tree/BAFinder-2.0 <br> 
 
-### Download BAFinder
+#### Download BAFinder
 
 BAFinder software<br> 
 If you don't want to install java, please download the packaged program for <a href="./software/BAFinder_windows64.zip" download>Windows64</a> or <a href="./software/BAFinder_macosx.zip" download>macOS</a> system.(~70 MB) <br> 
