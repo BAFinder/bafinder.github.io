@@ -12,7 +12,7 @@ Column temperature: 45 ℃<br>
 
 #### Download BART
 Program and database: for <a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/software/BART_windows64.zip" download>Windows 64</a><br> 
-User Manual (<a href="./tree/BART/doc/BART User Manual.pdf" download>PDF</a>)<br> 
+User Manual (<a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/doc/BART User Manual.pdf" download>PDF</a>)<br> 
 Test data
 
 
