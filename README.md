@@ -12,9 +12,8 @@ Flow rate: 0.45 mL/min<br>
 Column temperature: 45 ℃<br> 
 
 #### Download BART
-Program: for Windows 64<br> 
-Database (txt) <br> 
-User Manual (PDF)<br> 
+Program and database: for <a href="./software/BAFinder_windows64.zip" download>Windows 64</a><br> 
+User Manual (<a href="./doc/assets/BAFinder User Manual v1.0.pdf" download>PDF</a>)<br> 
 
 
 
