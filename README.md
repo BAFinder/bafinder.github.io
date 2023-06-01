@@ -1,4 +1,4 @@
-## BAFinder toolbox
+## BAFinder: A toolbox for bile acid identification
 
 <br> 
 
