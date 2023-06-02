@@ -3,7 +3,7 @@
 <br> 
 
 ### BART: a transferrable LC retention time library for bile acids
-BART is a Java program to predict gradient retention times of bile acids on different LC-MS instruments based on isocratic retention modeling. <br> 
+BART is a Java program to predict gradient retention times of bile acids on different LC-MS instruments based on isocratic retention modeling.  
 Currently the database contains 272 bile acids measured under the following LC condition:<br> 
 Column: Waters BEH C18 (2.1 mm × 100 mm, 1.7 µm)<br> 
 Mobile phase A: 7.5 mM ammonium acetate (adjusted to pH 4.9 using acetic acid) in water<br> 
