@@ -14,7 +14,7 @@ Column temperature: 45 ℃<br>
 #### Download BART
 Program: for <a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/software/BART_windows64.zip" download>Windows 64</a>, <a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/software/BART_macosx.zip" download>Mac OS</a><br> 
 Library: c0, c1 and c2 parameters in the quadratic solvent strength model (QSSM) for 272 bile acids (<a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/lib/BA_c0_c1_c2_lib.txt" download> txt </a> ) <br>
-User Manual (<a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/doc/BART User Manual.pdf" download>PDF</a>)<br> 
+User Manual (<a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/doc/BART User Manual v1.2.pdf" download>PDF</a>)<br> 
 Test data: an example dataset (<a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/data/test_data.zip" download> zip </a> ) <br>
 Data for publication: validation datasets on five LC-MS systems (<a href="https://github.com/BAFinder/bafinder.github.io/tree/BART/data/data_for_publication.zip" download> zip </a> ) <br>
 
