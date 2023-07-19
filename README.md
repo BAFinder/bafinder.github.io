@@ -16,35 +16,19 @@ The following bile acid classes are included:<br>
 
 
 ### Download
-Software: <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Software/BAFinder2_windows64.zip" download>Windows</a>, MacOS
-Library: (recommended) in-silico lib for amino acid conjugated BA + experimental lib for common BA (MSP), in-silico lib for amino acid conjugated BA only (MSP)
-Test dataset：fecal analysis of human, dog and rat（zip)
-QuickStart Guide (PDF)
-User Manual (PDF)
+Software: <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Software/BAFinder2_windows64.zip" download>Windows 64</a>, <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Software/BAFinder2_macosx.zip" download>MacOS</a> <br>
+Library: (recommended) in-silico lib for amino acid conjugated BA + experimental lib for common BA (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA_and_experimental_BA_recommended.msp"download>MSP</a>), in-silico lib for amino acid conjugated BA only (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA.msp.msp"download>MSP</a>) <br>
+Test dataset：fecal analysis of human, dog and rat, preprocessed for BAFinder（<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/ProcessedData/TestData.zip"download>zip</a>) <br>
+QuickStart Guide with test dataset (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/QuickStart_Guide.pdf"download>PDF</a>)<br>
+User Manual (PDF)<br>
 
 ### Link
-Check BAFinder 1.0 and other userful tools for bile acid identification:
-https://bafinder.github.io/
+Check BAFinder 1.0 and other userful tools for bile acid identification:<br>
+https://bafinder.github.io/<br>
 
 ### Contact
-Please contact mayan@nibs.ac.cn for any questions.
-
-Please go to the "Software" directory and select the correct version for your operating system. <br>
-
-To download the in-silico MS/MS library of amino acid conjugated bile acids, or the full version bundled with experimental bile acid library(recommended), go to the "Library" directory. <br>
-
-To use BAFinder 2.0 with test dataset (fecal analysis of human, dog and rat), download all contents in the "ProcessedData" directorey and follow the instructions in the QuickStart Guide. <br>
-
-To check the dataset in mzmL format, see the the "RawData" directorey. <br>
+Please contact mayan@nibs.ac.cn for any questions.<br>
 
 
-Test data set (fecal analysis of human, dog and rat):
-ProcessedData
-RawData
-
-To download BAFinder 2.0 software, please go to the "Software" directory and select the correct version for your operating system. <br>
--> To download the in-silico MS/MS library of amino acid conjugated bile acids, or the full version bundled with experimental bile acid library(recommended), go to the "Library" directory. <br>
--> To use BAFinder 2.0 with test dataset (fecal analysis of human, dog and rat), download all contents in the "ProcessedData" directorey and follow the instructions in the QuickStart Guide. <br>
--> To check the dataset in mzmL format, see the the "RawData" directorey. <br>
 
 
