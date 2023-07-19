@@ -16,12 +16,18 @@ The following bile acid classes are included:<br>
 
 
 ### Download
-Software: Windows, MacOS
+Software: <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Software/BAFinder2_windows64.zip" download>Windows</a>, MacOS
 Library: (recommended) in-silico lib for amino acid conjugated BA + experimental lib for common BA (MSP), in-silico lib for amino acid conjugated BA only (MSP)
 Test dataset：fecal analysis of human, dog and rat（zip)
 QuickStart Guide (PDF)
 User Manual (PDF)
 
+### Link
+Check BAFinder 1.0 and other userful tools for bile acid identification:
+https://bafinder.github.io/
+
+### Contact
+Please contact mayan@nibs.ac.cn for any questions.
 
 Please go to the "Software" directory and select the correct version for your operating system. <br>
 
@@ -41,4 +47,4 @@ To download BAFinder 2.0 software, please go to the "Software" directory and sel
 -> To use BAFinder 2.0 with test dataset (fecal analysis of human, dog and rat), download all contents in the "ProcessedData" directorey and follow the instructions in the QuickStart Guide. <br>
 -> To check the dataset in mzmL format, see the the "RawData" directorey. <br>
 
-Please contact mayan@nibs.ac.cn for any questions.
+
