@@ -20,7 +20,7 @@ Software: <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-
 Library: in-silico lib for amino acid conjugated BA + experimental lib for common BA (recommended, <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA_and_experimental_BA_recommended.msp" download>MSP</a>), in-silico lib for amino acid conjugated BA only (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA.msp" download>MSP</a>) <br>
 Test dataset：fecal analysis of human, dog and rat, preprocessed for BAFinder（<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/ProcessedData/TestData.zip" download>zip</a>) <br>
 QuickStart Guide (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/QuickStart_Guide.pdf" download>PDF</a>)<br>
-User Manual (PDF)<br>
+User Manual (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/BAFinder%202.0%20User%20Manual.pdf" download>PDF</a>)<br>
 
 ### Link
 Check BAFinder 1.0 and other userful tools for bile acid identification:<br>
