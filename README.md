@@ -12,7 +12,7 @@ The previously released BAFinder 1.0 included the following common bile acid typ
 • GBA-S, TBA-S<br>
 • GBA-GlcA, TBA-GlcA<br>
 
-The updated BAFinder 1.0 added the following bile acid types:<br>
+The updated BAFinder 2.0 increased the following bile acid types:<br>
 • common amino acid conjugated BA (alanine, arginine, asparagine, aspartate, glutamine, glutamate, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, proline, serine, threonine, tryptophan, tyrosine and valine)<br>
 • user-defined amino acid conjugated BA<br>
 
