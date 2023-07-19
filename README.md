@@ -16,7 +16,13 @@ The following bile acid classes are included:<br>
 
 
 ### Download
-####Software<br>
+Software: Windows, MacOS
+Library: (recommended) in-silico lib for amino acid conjugated BA + experimental lib for common BA (MSP), in-silico lib for amino acid conjugated BA only (MSP)
+Test dataset：fecal analysis of human, dog and rat（zip)
+QuickStart Guide (PDF)
+User Manual (PDF)
+
+
 Please go to the "Software" directory and select the correct version for your operating system. <br>
 
 To download the in-silico MS/MS library of amino acid conjugated bile acids, or the full version bundled with experimental bile acid library(recommended), go to the "Library" directory. <br>
