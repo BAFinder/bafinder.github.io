@@ -32,7 +32,7 @@ BAFinder 2.0 offers new functions to annotate amino-acid conjugated bile acids o
 For internal validation, please go to the following site to download the library, software and test data:<br> 
 https://github.com/BAFinder/bafinder.github.io/tree/BAFinder-2.0 <br> 
 
-#### Download BAFinder
+#### Download BAFinder 1.0
 
 BAFinder software<br> 
 If you don't want to install java, please download the packaged program for <a href="./software/BAFinder_windows64.zip" download>Windows64</a> or <a href="./software/BAFinder_macosx.zip" download>macOS</a> system.(~70 MB) <br> 
