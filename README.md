@@ -3,8 +3,8 @@
 BAFinder is a Java program to annotate bile acids (BA) from LC-MS/MS data in positive and negative mode. <br>
 
 The following common bile acid types are included:<br>
-<b><BAFinder 2.0 only> common amino acid conjugated BA (alanine, arginine, asparagine, aspartate, glutamine, glutamate, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, proline, serine, threonine, tryptophan, tyrosine and valine)<br>
-<b><BAFinder 2.0 only>user-defined amino acid conjugated BA<br>
+<strong><new><strong> common amino acid conjugated BA (alanine, arginine, asparagine, aspartate, glutamine, glutamate, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, proline, serine, threonine, tryptophan, tyrosine and valine)<br>
+<strong><new><strong>user-defined amino acid conjugated BA<br>
 • free BA <br>
 • glycine-conjugated BA (GBA) <br>
 • taurine conjugated BA (TBA)<br>
