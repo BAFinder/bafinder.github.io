@@ -17,7 +17,7 @@ The following bile acid classes are included:<br>
 
 ### Download
 Software: <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Software/BAFinder2_windows64.zip" download>Windows 64</a>, <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Software/BAFinder2_macosx.zip" download>MacOS</a> <br>
-Library: (recommended) in-silico lib for amino acid conjugated BA + experimental lib for common BA (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA_and_experimental_BA_recommended.msp" download>MSP</a>), in-silico lib for amino acid conjugated BA only (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA.msp.msp" download>MSP</a>) <br>
+Library: in-silico lib for amino acid conjugated BA + experimental lib for common BA (recommended, <a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA_and_experimental_BA_recommended.msp" download>MSP</a>), in-silico lib for amino acid conjugated BA only (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/Library/insilico_AABA.msp" download>MSP</a>) <br>
 Test dataset：fecal analysis of human, dog and rat, preprocessed for BAFinder（<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/ProcessedData/TestData.zip" download>zip</a>) <br>
 QuickStart Guide with test dataset (<a href="https://github.com/BAFinder/bafinder.github.io/blob/BAFinder-2.0/QuickStart_Guide.pdf" download>PDF</a>)<br>
 User Manual (PDF)<br>
